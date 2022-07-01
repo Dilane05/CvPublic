@@ -24,10 +24,10 @@ body{
     width: 75%; float: left;
 }
 .col-div-4{
-    width: 35%; float: left;
+    width: 40%; float: left;
 }
 .col-div-8{
-    width: 65%; float: left;
+    width: 60%; float: left;
 }
 .col-div-6{
     width: 50%; float: left;
@@ -40,20 +40,20 @@ body{
 
 .resume-main{
     width: 700px; 
-    height: 880px; 
+    height: 1280px; 
     background: linear-gradient(var(--one), var(--two));
 	margin: 50px auto;
 	box-shadow:5px 5px 5px 5px #54585d33;
 }
 
 .left-box{
-    width: 35%; float: left;
+    width: 40%; float: left;
      height: 800px;
 }
 .right-box{
-    width: 65%; float: left; 
+    width: 60%; float: left; 
     background-color: var(--white); 
-    height: 800px;
+    height: 1180px;
 	margin: 50px 0px; 
     border-radius: 50px 0px 0px 50px; 
     padding:30px 50px;
